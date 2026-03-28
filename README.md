@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👨‍💻 Felipe dos Santos de Melo
 
-<!--
-**SirFelipeSmelo/sirfelipesmelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software  
+📍 Caxias do Sul - RS  
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+Sou estudante de Engenharia de Software com interesse em tecnologia, programação e melhoria de processos. Estou em constante aprendizado e desenvolvimento de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tecnologias em estudo
+- HTML
+- C#
+- Lógica de Programação
+- Estrutura de Dados
+
+## 📂 Projetos
+- 📄 Formulário de Currículo (HTML)
+- 🎮 Loja de Games (HTML)
+- ⚽ Tabela de Campeonato (HTML)
+
+## 🤖 Diferencial
+Utilizo ferramentas de Inteligência Artificial (ChatGPT) para estudos, organização e resolução de problemas.
+
+## 📫 Contato
+Email: fm217730@gmail.com
