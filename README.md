@@ -1,4 +1,4 @@
-# 👨‍💻 Felipe dos Santos de Melo
+# 👨‍💻 Felipe dos Santos Melo
 
 🎓 Estudante de Engenharia de Software  
 📍 Caxias do Sul - RS  
